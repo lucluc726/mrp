@@ -1,8 +1,8 @@
 {
-  "domains": ["mlucap.fun", "lucim2.example", "lucim3.example"],
+  "domains": [ "lucim2.example", "lucim3.example","mlucap.fun"],
   "update": {
     "version": "1.0.2",
-    "build": 12,
+    "build": 3,
     "url": "https://mlucflm.fun/static/apk/lucimovie-v1.0.2.apk",
     "changelog": "رفع باگ‌ها و دانلود منیجر جدید"
   }
