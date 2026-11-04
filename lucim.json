@@ -1,9 +1,9 @@
 {
   "domains": ["mlucap.fun","lucim4.online"],
   "update": {
-    "version": "1.0.3",
-    "build": 4,
-    "url": "https://mlucflm.fun/static/apk/lucimovie-v1.0.2.apk",
-    "changelog": "رفع باگ‌ها و دانلود منیجر جدید"
+    "version": "1.0.4",
+    "build": 5,
+    "url": "https://github.com/nonelucifer85-spec/app/releases/download/v1.0.4/lucimovie-v1.0.4.apk",
+    "changelog": "اضافه شده پلیر جدید"
   }
 }
