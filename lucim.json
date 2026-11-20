@@ -1,9 +1,9 @@
 {
   "domains": ["lucim5.site","lucim2.online","mlucap.fun","lucim4.online"],
   "update": {
-    "version": "1.0.5",
-    "build": 2006,
-    "url": "https://github.com/nonelucifer85-spec/app/releases/download/v1.0.5/lucimovie-v1.0.5.apk",
-     "changelog": "تغییر کامل اپلیکیشن ,بهبود سرعت و رفع باگ "
+    "version": "1.0.6",
+    "build": 2007,
+    "url": "https://github.com/nonelucifer85-spec/app/releases/download/v1.0.6/app-arm64-v8a-release.apk",
+     "changelog": "رفع مشکل دانلودر داخلی"
   }
 }
